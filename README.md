@@ -6,7 +6,6 @@
 </p>
 
 ![](https://img.shields.io/badge/python-3.10-orange)
-
 ![](https://img.shields.io/badge/C++-17-blue)
 
 <!--
