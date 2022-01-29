@@ -4,7 +4,9 @@
   <a href="https://timedegree.github.io/">blog</a> •
   <a href="https://space.bilibili.com/10077094">bilibili</a> 
 </p>
+
 ![](https://img.shields.io/badge/python-3.10-orange)
+
 ![](https://img.shields.io/badge/C++-17-blue)
 
 <!--
