@@ -4,10 +4,9 @@
   <a href="https://timedegree.github.io/">blog</a> •
   <a href="https://space.bilibili.com/10077094">bilibili</a> 
 </p>
-<p align="center">
 ![](https://img.shields.io/badge/python-3.10-orange)
-![](https://img.shields.io/badge/C%2B%2B-17-blue)
-</p>
+![](https://img.shields.io/badge/C++-17-blue)
+
 <!--
 **timedegree/timedegree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
