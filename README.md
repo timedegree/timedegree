@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://img.shields.io/badge/python-3.10-orange)
 <!--
 **timedegree/timedegree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 <a href="https://github.com/timedegree"><img align="center" src="https://github-readme-stats.vercel.app/api?username=timedegree&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Jacky's github stats" /></a> 
 <a href="https://github.com/timedegree"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timedegree&layout=compact&theme=vue&hide_border=true" /></a>
-![](https://img.shields.io/badge/python-3.10-orange)
