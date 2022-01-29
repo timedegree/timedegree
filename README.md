@@ -1,4 +1,4 @@
-<h3 align="center"> TimeDegree / 时度度</h3>
+<h3 align="center"> TimeDegree | 时度度</h3>
 
 <p align="center">
   <a href="https://timedegree.github.io/">blog</a> •
