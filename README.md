@@ -21,5 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
 <a href="https://github.com/timedegree"><img align="center" src="https://github-readme-stats.vercel.app/api?username=timedegree&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Jacky's github stats" /></a> 
 <a href="https://github.com/timedegree"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timedegree&layout=compact&theme=vue&hide_border=true" /></a>
+</p>
