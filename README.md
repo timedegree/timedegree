@@ -1,4 +1,10 @@
-### Hi there 👋
+
+
+<p align="center">
+  <a href="https://timedegree.github.io/">blog</a> •
+  <a href="https://space.bilibili.com/10077094">bilibili</a> •
+</p>
+
 ![](https://img.shields.io/badge/python-3.10-orange)
 ![](https://img.shields.io/badge/C%2B%2B-17-blue)
 <!--
