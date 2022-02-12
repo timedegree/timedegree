@@ -25,7 +25,7 @@ jobs:
           # Options
           user: timedegree
           template: classic
-          base: ""
+          base: header, activity, community
           config_timezone: Asia/Shanghai
           plugin_followup: yes
           plugin_followup_sections: repositories
