@@ -9,7 +9,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name:
+      - name: left
         uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
