@@ -42,7 +42,7 @@ jobs:
           plugin_code: yes
           plugin_code_languages: c++, python
           plugin_code_load: 400
-          config_order: base.header,languages,topics,rss,code
+          config_order: base.header,languages,rss,code
       
       - name: right
         uses: lowlighter/metrics@latest
