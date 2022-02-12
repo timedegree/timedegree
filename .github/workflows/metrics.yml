@@ -36,13 +36,13 @@ jobs:
           plugin_languages_details: lines, percentage
           plugin_languages_indepth: yes
           commits_authoring: TimeDegree,Shi_Du,942734208@qq.com,timedegree1@outlook.com
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: mastered
           plugin_rss: yes
           plugin_rss_source: https://www.timedegree.cn/atom.xml
           plugin_rss_limit: 3
-          config_order: base.header,languages,topics,rss
+          plugin_code: yes
+          plugin_code_languages: c++, python
+          plugin_code_load: 400
+          config_order: base.header,languages,topics,rss,code
       
       - name: right
         uses: lowlighter/metrics@latest
