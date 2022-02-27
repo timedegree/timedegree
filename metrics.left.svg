@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -66,15 +66,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 55 edited files from 63 commits</small>
+                <small>estimation from 56 edited files from 64 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="289.92548315231505" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="289.92548315231505" y="0" width="112.79516829394097" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="402.72065144625606" y="0" width="57.27934855374395" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.31860426056045" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="297.31860426056045" y="0" width="107.89197435825659" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="405.210578618817" y="0" width="54.78942138118299" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -86,8 +86,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>3.54k lines</div>
-                                <div>63.03%</div>
+                                <div>3.85k lines</div>
+                                <div>64.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -99,7 +99,7 @@
                             </div>
                             <small>
                                 <div>1.15k lines</div>
-                                <div>12.45%</div>
+                                <div>11.91%</div>
                             </small>
                         </div>
                     </section>
@@ -113,7 +113,7 @@
                             </div>
                             <small>
                                 <div>3.71k lines</div>
-                                <div>24.52%</div>
+                                <div>23.45%</div>
                             </small>
                         </div>
                     </section>
@@ -133,6 +133,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">杂记</div>
+                                <div class="date">27 Feb 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">coq学习笔记</div>
                                 <div class="date">30 Jan 2022</div>
                             </div>
@@ -143,15 +152,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">编码の笔记</div>
-                                <div class="date">27 Jan 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">离散数学</div>
                                 <div class="date">27 Jan 2022</div>
                             </div>
                         </div>
