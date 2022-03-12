@@ -1,8 +1,8 @@
 <h3 align="center"> TimeDegree | 时度度</h3>
 
 <p align="center">
-  <a href="https://timedegree.github.io/">blog</a> •
-  <a href="https://space.bilibili.com/10077094">bilibili</a> 
+  <a href="https://blog.timedegree.cc/">Blog</a> •
+  <a href="https://space.bilibili.com/10077094">Bilibili</a> 
 </p>
 
 <!-- ![Metrics](https://github.com/timedegree/timedegree/blob/master/github-metrics.svg) -->
