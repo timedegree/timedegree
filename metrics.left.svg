@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -66,16 +66,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 60 edited files from 73 commits</small>
+                <small>estimation from 60 edited files from 74 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="283.08786624357714" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="283.08786624357714" y="0" width="99.33089573635294" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="382.4187619799301" y="0" width="50.441956735338174" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="432.86071871526826" y="0" width="27.13928128473173" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="293.5500081836533" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="293.5500081836533" y="0" width="93.45671453598685" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="387.0067227196402" y="0" width="47.458945339257895" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="434.4656680588981" y="0" width="25.534331941101943" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -87,8 +87,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>3.95k lines</div>
-                                <div>61.54%</div>
+                                <div>4.05k lines</div>
+                                <div>63.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -100,7 +100,7 @@
                             </div>
                             <small>
                                 <div>1.15k lines</div>
-                                <div>10.97%</div>
+                                <div>10.32%</div>
                             </small>
                         </div>
                     </section>
@@ -114,7 +114,7 @@
                             </div>
                             <small>
                                 <div>3.71k lines</div>
-                                <div>21.59%</div>
+                                <div>20.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -126,7 +126,7 @@
                             </div>
                             <small>
                                 <div>550 lines</div>
-                                <div>5.9%</div>
+                                <div>5.55%</div>
                             </small>
                         </div>
                     </section>
@@ -137,7 +137,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M3.267 1.457c.3.286.312.76.026 1.06A6.475 6.475 0 001.5 7a6.472 6.472 0 001.793 4.483.75.75 0 01-1.086 1.034 8.89 8.89 0 01-.276-.304l.569-.49-.569.49A7.971 7.971 0 010 7c0-2.139.84-4.083 2.207-5.517a.75.75 0 011.06-.026zm9.466 0a.75.75 0 011.06.026A7.975 7.975 0 0116 7c0 2.139-.84 4.083-2.207 5.517a.75.75 0 11-1.086-1.034A6.475 6.475 0 0014.5 7a6.475 6.475 0 00-1.793-4.483.75.75 0 01.026-1.06zM8.75 8.582a1.75 1.75 0 10-1.5 0v5.668a.75.75 0 001.5 0V8.582zM5.331 4.736a.75.75 0 10-1.143-.972A4.983 4.983 0 003 7c0 1.227.443 2.352 1.177 3.222a.75.75 0 001.146-.967A3.483 3.483 0 014.5 7c0-.864.312-1.654.831-2.264zm6.492-.958a.75.75 0 00-1.146.967c.514.61.823 1.395.823 2.255 0 .86-.31 1.646-.823 2.255a.75.75 0 101.146.967A4.983 4.983 0 0013 7a4.983 4.983 0 00-1.177-3.222z"/>
                     </svg>
-                    时度度的个人博客 RSS feed
+                    时度度/Time_Degree RSS feed
                 </h2>
                 <div class="row fill-width">
                     <section>
