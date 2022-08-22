@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://blog.timedegree.cc/">Blog</a> •
   <a href="https://space.bilibili.com/10077094">BILIBILI</a> •
-  <a href="https://note.timedegree.cc/">Note</a> 
+  <a href="http://note.timedegree.cc/">Note</a> 
 </p>
 
 <!-- ![Metrics](https://github.com/timedegree/timedegree/blob/master/github-metrics.svg) -->
