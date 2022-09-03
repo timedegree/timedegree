@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://blog.timedegree.cc/">Blog</a> •
-  <a href="https://space.bilibili.com/10077094">Bilibili</a>•
+  <a href="https://space.bilibili.com/10077094">Bilibili</a> •
   <a href="http://note.timedegree.cc/">Note</a> 
 </p>
 
