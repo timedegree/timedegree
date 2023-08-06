@@ -45,15 +45,8 @@ jobs:
           config_order: base.header,languages,rss,code
       
       - name: right
-        uses: lowlighter/metrics@latest
+        uses: timedegree/metrics@master
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org  (for organization related metrics)
-          #  - read:user (for user related data)
-          #  - repo      (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.right.svg
           
