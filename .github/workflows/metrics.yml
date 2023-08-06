@@ -45,7 +45,7 @@ jobs:
           config_order: base.header,languages,rss,code
       
       - name: right
-        uses: timedegree/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.right.svg
