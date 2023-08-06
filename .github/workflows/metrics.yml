@@ -45,7 +45,7 @@ jobs:
           config_order: base.header,languages,rss,code
       
       - name: right
-        uses: lowlighter/metrics@latest
+        uses: TonyCrane/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.right.svg
