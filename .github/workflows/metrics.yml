@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: left
-        uses: lowlighter/metrics@latest
+        uses: TonyCrane/metrics@master
         with:
           # Your GitHub token
           # The following scopes are required:
