@@ -37,7 +37,7 @@ jobs:
           plugin_languages_indepth: yes
           commits_authoring: TimeDegree,Shi_Du,942734208@qq.com,timedegree1@outlook.com
           plugin_rss: yes
-          plugin_rss_source: https://blog.timedegree.cc/atom.xml
+          plugin_rss_source: https://note.timedegree.cc/feed_rss_updated.xml
           plugin_rss_limit: 3
           plugin_code: yes
           plugin_code_languages: c++, python
