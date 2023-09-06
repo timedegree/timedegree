@@ -17,6 +17,3 @@
     <img width="400" align="top" src="https://github.com/timedegree/timedegree/blob/main/metrics.right.svg" />
   </a>
 </p>
-
-![GitHub Snake Light](https://gist.githubusercontent.com/timedegree/62c190858bed9a108ce5811f715d2e55/raw/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://gist.githubusercontent.com/timedegree/62c190858bed9a108ce5811f715d2e55/raw/github-snake-dark.svg#gh-dark-mode-only)
