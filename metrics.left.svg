@@ -36,9 +36,9 @@
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -66,16 +66,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 15.8mb of code in 1283 edited files across 165 commits</small>
+                <small>estimation from 16.1mb of code in 1343 edited files across 167 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="331.6217348359503" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="331.6217348359503" y="0" width="114.52842947867094" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="446.15016431462124" y="0" width="13.838507910554156" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.98867222517543" y="0" width="0.011327774824568404" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="331.7724438020402" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="331.7724438020402" y="0" width="114.39397945184928" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="446.16642325388943" y="0" width="13.822262269465606" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.98868552335506" y="0" width="0.01131447664492929" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -88,7 +88,7 @@
                             </div>
                             <small>
                                 <div>129k lines</div>
-                                <div>72.09%</div>
+                                <div>72.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -100,7 +100,7 @@
                             </div>
                             <small>
                                 <div>11.1k lines</div>
-                                <div>3.01%</div>
+                                <div>3%</div>
                             </small>
                         </div>
                     </section>
@@ -114,7 +114,7 @@
                             </div>
                             <small>
                                 <div>14.7k lines</div>
-                                <div>24.9%</div>
+                                <div>24.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -146,7 +146,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">递归问题</div>
+                                <div class="title">算法</div>
                                 <div class="date">11 Sept 2023</div>
                             </div>
                         </div>
@@ -155,7 +155,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CF Round 896 Div.2</div>
+                                <div class="title">数据结构</div>
                                 <div class="date">11 Sept 2023</div>
                             </div>
                         </div>
@@ -173,7 +173,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">数据结构</div>
+                                <div class="title">CF Round 896 Div.2</div>
                                 <div class="date">11 Sept 2023</div>
                             </div>
                         </div>
