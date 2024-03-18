@@ -66,16 +66,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 22.4mb of code in 1903 edited files across 197 commits</small>
+                <small>estimation from 23mb of code in 2011 edited files across 199 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="345.3637331508138" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="345.3637331508138" y="0" width="102.25289845888632" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="447.6166316097001" y="0" width="12.37325476336749" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.98988637306763" y="0" width="0.010113626932406646" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.7591420752762" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="346.7591420752762" y="0" width="101.00822597448494" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="447.76736804976116" y="0" width="12.222641431339119" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.99000948110023" y="0" width="0.009990518899773924" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -87,8 +87,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>156k lines</div>
-                                <div>75.08%</div>
+                                <div>160k lines</div>
+                                <div>75.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -100,7 +100,7 @@
                             </div>
                             <small>
                                 <div>11.1k lines</div>
-                                <div>2.69%</div>
+                                <div>2.66%</div>
                             </small>
                         </div>
                     </section>
@@ -114,7 +114,7 @@
                             </div>
                             <small>
                                 <div>14.7k lines</div>
-                                <div>22.23%</div>
+                                <div>21.96%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -146,7 +146,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Defense</div>
+                                <div class="title">VenomCTF</div>
+                                <div class="date">17 Mar 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Denfense</div>
                                 <div class="date">17 Mar 2024</div>
                             </div>
                         </div>
@@ -166,15 +175,6 @@
                             <div class="infos">
                                 <div class="title">Stack Overflow</div>
                                 <div class="date">11 Mar 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">GanCTF</div>
-                                <div class="date">19 Dec 2023</div>
                             </div>
                         </div>
                     </section>
