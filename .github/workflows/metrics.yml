@@ -55,7 +55,7 @@ jobs:
           base: ""
           config_timezone: Asia/Shanghai
           plugin_topics: yes
-          plugin_topics_limit: 0
+          plugin_topics_limit: 15
           plugin_topics_mode: icons
           plugin_achievements: yes
           plugin_achievements_secrets: yes
