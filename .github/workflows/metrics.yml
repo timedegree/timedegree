@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: left
-        uses: TonyCrane/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -45,7 +45,7 @@ jobs:
           config_order: base.header,languages,rss,code
       
       - name: right
-        uses: TonyCrane/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.right.svg
