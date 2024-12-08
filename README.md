@@ -1,9 +1,10 @@
 <h3 align="center"> TimeDegree | 时度度</h3>
 
 <p align="center">
-  <a href="https://blog.timedegree.cc/">Blog</a> •
-  <a href="https://space.bilibili.com/10077094">Bilibili</a> •
-  <a href="http://note.timedegree.cc/">Note</a> 
+  <a href="https://blog.timedegree.cc/">blog</a> •
+  <a href="https://note.timedegree.cc/">note</a> •
+  <a href="https://space.bilibili.com/10077094">bilibili</a> •
+  <a href="timedegree12@gmail.com">email</a>
 </p>
 
 <!-- ![Metrics](https://github.com/timedegree/timedegree/blob/master/github-metrics.svg) -->
