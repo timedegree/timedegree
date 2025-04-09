@@ -45,7 +45,7 @@ jobs:
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
       
       - name: right
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.right.svg
