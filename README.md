@@ -1,6 +1,7 @@
 <h3 align="center"> TimeDegree | 时度度</h3>
 
 <p align="center">
+  <a href="https://timedegree.cc/">home</a> •
   <a href="https://blog.timedegree.cc/">blog</a> •
   <a href="https://note.timedegree.cc/">note</a> •
   <a href="https://space.bilibili.com/10077094">bilibili</a>
