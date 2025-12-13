@@ -39,10 +39,12 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://note.timedegree.cc/feed_rss_created.xml
           plugin_rss_limit: 4
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_followup: yes
+          plugin_followup_sections: user
+          #plugin_activity: yes
+          #plugin_activity_limit: 5
+          #plugin_activity_days: 0
+          #plugin_activity_filter: issue, pr, release, fork, review, ref/create
       
       - name: right
         uses: stalomeow/metrics@projects-v2
